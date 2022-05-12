@@ -1,0 +1,59 @@
+#hover{
+    background-color: rgb(64, 64, 64);
+}
+
+#caja{
+    background-color: rgb(205, 205, 205);
+    color: rgb(58, 58, 58);
+}
+
+#contenedor{
+    border: 1px solid rgb(205, 205, 205);
+    padding: 12px;
+}
+
+h1, h2, h3, h4{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-style: italic;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 16px;
+    text-align: justify;
+}
+
+#texto{
+    font-family:'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+img{
+    width: 870px;
+    height: auto;
+}
+
+h2{
+    font-size:x-large;
+}
+
+#image{
+    width: 180px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+#enlace{
+    padding-inline-start: 320px;
+    display: inline-block;
+    color: rgb(243, 174, 72);
+}
+
+#footer{
+    color: white;
+    font-style: normal;
+}
